@@ -1,0 +1,28 @@
+.navbar {
+  display:flex;
+  justify-content:center;
+  /* height: 200px;  */
+  align-items: center; 
+}
+
+.nav-logo{
+  width:250px;
+  height:auto;
+}
+
+/* .nav-logo img {
+    width: 20%;
+    height: auto;
+  }
+  
+  @media (max-width: 768px) {
+    .nav-logo img {
+      width: 80%;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .nav-logo img {
+      width: 60%;
+    }
+  } */
